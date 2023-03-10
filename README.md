@@ -573,7 +573,7 @@ plt.show()
 
 
     
-![png](output_21_0.png)
+![png](https://user-images.githubusercontent.com/124150494/224320101-13bc8cb8-600d-439b-b37d-d087ef3a070c.png))
     
 
 
@@ -601,7 +601,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](https://user-images.githubusercontent.com/124150494/224320134-d45ee214-8deb-4d30-9122-71ce086244e3.png)
     
 
 
